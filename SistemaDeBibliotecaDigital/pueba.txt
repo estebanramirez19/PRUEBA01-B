@@ -1,0 +1,17 @@
+3. Crear la clase Biblioteca con:
+•	Una lista que almacene los materiales.
+•	Método agregar_material(material) → agrega un material a la lista.
+•	Método mostrar_catalogo() → recorre la lista y muestra la descripción y el precio de cada material, además de calcular el valor total del catálogo.
+
+4. En el programa principal (main):
+•	Crear una biblioteca.
+•	Instanciar al menos un libro, una revista y un periódico.
+•	Usar el setter para modificar el precio de uno de ellos.
+•	Agregar los materiales a la biblioteca.
+•	Mostrar el catálogo completo.
+
+5. Comentarios en el código:
+•	Explicar lo que hace cada método.
+•	Explicar la relación entre clases padre-hijo.
+•	Identificar dónde se aplica polimorfismo.
+•	Explicar las acciones que realiza el archivo principal (main).
